@@ -6,4 +6,8 @@ smør
 mælk 
 sukker 
 legetæj oscar
-rødvin
+
+Dog
+Cat
+Cow
+Monkey
